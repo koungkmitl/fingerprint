@@ -144,3 +144,4 @@ except Exception as e:
     print('Operation failed!')
     print('Exception message: ' + str(e))
     exit(1)
+hello
